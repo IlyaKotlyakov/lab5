@@ -1,0 +1,6 @@
+C:\Users\ikotl\Pictures\Saved Pictures\lab5_c_sharp1\lab5_1\lab5_1\bin\Debug\lab5_1.exe.config
+C:\Users\ikotl\Pictures\Saved Pictures\lab5_c_sharp1\lab5_1\lab5_1\bin\Debug\lab5_1.exe
+C:\Users\ikotl\Pictures\Saved Pictures\lab5_c_sharp1\lab5_1\lab5_1\bin\Debug\lab5_1.pdb
+C:\Users\ikotl\Pictures\Saved Pictures\lab5_c_sharp1\lab5_1\lab5_1\obj\Debug\lab5_1.csprojAssemblyReference.cache
+C:\Users\ikotl\Pictures\Saved Pictures\lab5_c_sharp1\lab5_1\lab5_1\obj\Debug\lab5_1.exe
+C:\Users\ikotl\Pictures\Saved Pictures\lab5_c_sharp1\lab5_1\lab5_1\obj\Debug\lab5_1.pdb
